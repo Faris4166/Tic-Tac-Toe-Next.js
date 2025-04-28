@@ -95,7 +95,7 @@ export default function Home() {
           onChange={handleModeChange}
           className="p-2 rounded bg-gray-800 text-white"
         >
-          <option value="pvp">👥 1 Players</option>
+          <option value="pvp">👥 2 Players</option>
           <option value="ai">🤖 Play vs AI</option>
         </select>
 
